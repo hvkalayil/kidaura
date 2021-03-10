@@ -14,4 +14,6 @@ You can find the apk here:-<br/>
 <img src="https://raw.githubusercontent.com/hvkalayil/kidaura/master/snapshots/s1.jpg" width="200">
 <img src="https://raw.githubusercontent.com/hvkalayil/kidaura/master/snapshots/s2.jpg" width="200">
 <img src="https://raw.githubusercontent.com/hvkalayil/kidaura/master/snapshots/s3.jpg" width="200">
-       
+
+## Thank You
+Thanks for the opportunity. Have a good day 😊
